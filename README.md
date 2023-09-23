@@ -17,7 +17,7 @@
 
 - :seedling: Data Enthusiast.
 
-- :zap: In my free time, I prepare Tech and Science content to publish.
+- :zap: In my free time, I prepare Tech and Science contents to publish.
 - 💻 I am presently involved in the development of a Django-based website for an association. 
 
 ---
