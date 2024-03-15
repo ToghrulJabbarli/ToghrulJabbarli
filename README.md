@@ -52,6 +52,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" **alt="Jupyter" width="40" height="40"/>
 </div>
 
+---
+### Certifications
+<div> 
+  <img src="https://github.com/ToghrulJabbarli/ToghrulJabbarli/blob/main/data_engineer_associate_badge.svg" title="Datacamp" alt="datacamp" width="110" height="110"/>&nbsp;
+</div>
 
 <!--
 **ToghrulJabbarli/ToghrulJabbarli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
